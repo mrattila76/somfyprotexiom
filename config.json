@@ -9,7 +9,7 @@
   "options": {
     "Model": "5000",
     "Adress": "http://192.168.1.90:80",
-    "User Password": "6235",
+    "User1 Password": "6235",
     "AuthCard Line 1": "5032|0831|3064|0594|5446|1555",
     "AuthCard Line 2": "7829|8374|3421|3675|5665|5212",
     "AuthCard Line 3": "1026|1739|2579|8449|8707|7626",
@@ -19,7 +19,7 @@
   "schema": {
     "Model": "list(600|5000)",
     "Adress": "str",
-    "User Password": "str",
+    "User1 Password": "str",
     "AuthCard Line 1": "str",
     "AuthCard Line 2": "str",
     "AuthCard Line 3": "str",
