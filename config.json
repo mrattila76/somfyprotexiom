@@ -1,6 +1,6 @@
 {
   "name": "Alarm Somfy Protexiom",
-  "version": "0.1",
+  "version": "0.1.1",
   "slug": "somfyprotexiom",
   "description": "switch on/off alarm Somfy Protexiom 600/5000",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
